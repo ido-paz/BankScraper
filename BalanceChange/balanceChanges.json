@@ -1,0 +1,90 @@
+﻿[
+  {
+    "OperationDate": "28/04/2023",
+    "ValueDate": "28/04/2023",
+    "Description": "מש מכספומט ***** 28/04",
+    "ID": "1914/99055",
+    "Amount": "-2,000.00",
+    "Balance": "*****"
+  },
+  {
+    "OperationDate": "18/04/2023",
+    "ValueDate": "18/04/2023",
+    "Description": "תשלום רבעוני-דמי ניהול ניע",
+    "ID": "1913",
+    "Amount": "-2.69",
+    "Balance": "*****"
+  },
+  {
+    "OperationDate": "13/04/2023",
+    "ValueDate": "13/04/2023",
+    "Description": "***** חברה חיוב",
+    "ID": "1912",
+    "Amount": "-100.00",
+    "Balance": "*****"
+  },
+  {
+    "OperationDate": "10/04/2023",
+    "ValueDate": "10/04/2023",
+    "Description": "***** חברה חיוב",
+    "ID": "1911",
+    "Amount": "-904.37",
+    "Balance": "*****"
+  },
+  {
+    "OperationDate": "10/04/2023",
+    "ValueDate": "10/04/2023",
+    "Description": "כספומט בנק ***** 10/04 17:28",
+    "ID": "1910/05203",
+    "Amount": "-1,000.00",
+    "Balance": "*****"
+  },
+  {
+    "OperationDate": "10/04/2023",
+    "ValueDate": "10/04/2023",
+    "Description": "כספומט בנק ***** 10/04 09:10",
+    "ID": "1909/64203",
+    "Amount": "-1,000.00",
+    "Balance": "*****"
+  },
+  {
+    "OperationDate": "10/04/2023",
+    "ValueDate": "10/04/2023",
+    "Description": "*****",
+    "ID": "1908",
+    "Amount": "17,497.35",
+    "Balance": "*****"
+  },
+  {
+    "OperationDate": "07/04/2023",
+    "ValueDate": "07/04/2023",
+    "Description": "כספומט בנק ***** 06/04 08:20",
+    "ID": "1907/38203",
+    "Amount": "-2,000.00",
+    "Balance": "*****"
+  },
+  {
+    "OperationDate": "04/04/2023",
+    "ValueDate": "04/04/2023",
+    "Description": "העברה ***** בעמ חשבון 12-532",
+    "ID": "1906",
+    "Amount": "936.00",
+    "Balance": "*****"
+  },
+  {
+    "OperationDate": "03/04/2023",
+    "ValueDate": "31/03/2023",
+    "Description": "י, לפי 6 יח...  עמלת פעולה בערוץ ישיר-מטי, לפי 6 יח",
+    "ID": "1905   019",
+    "Amount": "-11.10",
+    "Balance": "*****"
+  },
+  {
+    "OperationDate": "02/04/2023",
+    "ValueDate": "02/04/2023",
+    "Description": "חיוב לכרטיס ויזה *****",
+    "ID": "1904",
+    "Amount": "-13,084.78",
+    "Balance": "*****"
+  }
+]
